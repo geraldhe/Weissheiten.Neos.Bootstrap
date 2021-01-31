@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "neos/neos": "~5.0",
-        "neos/nodetypes": "~5.0"
+        "neos/neos": "~7.0",
+        "neos/nodetypes": "~7.0"
     },
     "autoload": {
         "psr-0": {
